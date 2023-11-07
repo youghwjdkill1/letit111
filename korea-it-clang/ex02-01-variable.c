@@ -55,7 +55,7 @@ int main(void)
     // 대소문자 구분 명학히 작성해야한다.
     // printf("%d\n", number);
 
-    /* 사용 불가한 변주명들 */
+    /* 사용 불가한 변주수들 */
     // int hello boy = 3;       // 공백포함
     // int hi#$ = 5;            // 특수기호 사용
     // int 8nunmber = 8;        // 숫자로 시작
