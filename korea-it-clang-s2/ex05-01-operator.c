@@ -43,7 +43,7 @@ int main(void)
     printf("\n");
 
     // 대입연산자
-    printf("대입연산자 \n");
+    printf("대입연산자 \n");    
     int num3 = 3, num4 = 4;
     num3 += 3;  // num3 = num3 + 3;
     num4 *= 4;  // num4 = num4 * 4;
