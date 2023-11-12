@@ -1,7 +1,7 @@
 /*
 파일명 : ex16-04-call-by-reference,c
 
-cal by reference
+call by reference
     포인터 매개변수, 주소값 전달
 */
 
