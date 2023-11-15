@@ -23,7 +23,7 @@ int main(void)
     odd[2] = 5;
 
     // 개별 요소 접근 및 출력
-    printf("%d %d %d\n", odd[0], odd[1], odd[2]);
+    printf("%d %d %d\n", odd[-3], odd[1], odd[2]);
 
     // for문을 통한 배열 요소 출력
     for (int i = 0; i < 3; i++) 
