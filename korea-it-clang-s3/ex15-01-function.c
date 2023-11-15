@@ -36,5 +36,4 @@ int main(void)
     printf("하수가 반환한 값 : %d\n", result);
 
     return 0;
-
 }
